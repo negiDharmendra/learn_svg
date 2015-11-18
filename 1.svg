@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="550" width="800" >
+	<rect x="60" y="50" height="30" width="40"
+	    style="stroke: #ff00ff; fill:red;" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="8s"
+	            repeatCount="indefinite"
+	  />
+	</rect>
+	<rect x="100" y="60" height="30" width="40"
+	    style="stroke: #ff00ff; fill:red;" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="8s"
+	            repeatCount="indefinite"
+	  />
+	</rect>
+	<circle	cx="200" cy="200" r="120" fill="green"/>
+
+</svg>

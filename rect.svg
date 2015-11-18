@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="550" width="800" >
+	
+	<g>
+		
+	<circle	cx="100" cy="80" r="10" fill="white" >
+	</circle>
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="50s"
+	            repeatCount="indefinite"
+	  />
+	</g>
+	<circle	cx="200" cy="200" r="120" fill="green" style="stroke: white; stroke-width:2;stroke-dasharray:4 1">
+		<animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+	<circle cx="200" cy="200" r="110"
+	    style="stroke: black; stroke-width:2; fill:white; stroke-dasharray:1 2" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+	<circle cx="200" cy="200" r="100"
+	    style="stroke: black; stroke-width:2; fill:blue; stroke-dasharray:1 2" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+	<circle cx="200" cy="200" r="90"
+	    style="stroke: black; stroke-width:2; fill:yellow; stroke-dasharray:1 2" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+	<circle cx="200" cy="200" r="80"
+	    style="stroke: black; stroke-width:2; fill:red; stroke-dasharray:1 2" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+	<circle cx="200" cy="200" r="70"
+	    style="stroke: black; stroke-width:2; fill:pink; stroke-dasharray:1 2" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+	<circle cx="200" cy="200" r="60"
+	    style="stroke: black; stroke-width:2; fill:blue; stroke-dasharray:1 2" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+	<circle cx="200" cy="200" r="50"
+	    style="stroke: black; stroke-width:2; fill:yellow; stroke-dasharray:1 2" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+	<circle cx="200" cy="200" r="40"
+	    style="stroke: black; stroke-width:2; fill:red; stroke-dasharray:1 2" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+	<circle cx="200" cy="200" r="30"
+	    style="stroke: black; stroke-width:2; fill:pink; stroke-dasharray:1 2" >
+	  <animateTransform attributeName="transform"
+	            type="rotate"
+	            from="0 200 200" to="360 200 200"
+	            begin="0s" dur="2s"
+	            repeatCount="indefinite"
+	  />
+	</circle>
+
+</svg>
+
